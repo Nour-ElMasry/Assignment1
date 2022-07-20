@@ -1,3 +1,2 @@
-Hello! This is not Nour
+Delete conflict modification
 
-This is a new modification to the txt file! (from developing branch)
